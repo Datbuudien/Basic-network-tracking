@@ -54,7 +54,7 @@ The system is designed with a two-part structure: **The Server Machine (Guardian
 2.  **CRITICAL:** If the Windows Firewall prompts an alert, you **must** select **Allow Access** for the program to receive connections.
 3.  The console screen will display the waiting status:
 
-   ![IMAGE: SERVER CONSOLE WAITING FOR CONNECTION](Assets/Server.png)
+   ![IMAGE: SERVER CONSOLE WAITING FOR CONNECTION](Asset/Server.png)
 
 ### Step 3: Run the Client (Ward's Machine)
 
@@ -66,11 +66,11 @@ The system is designed with a two-part structure: **The Server Machine (Guardian
 1.  Return to the **Server Machine**.
 2.  As soon as the Client machine opens an application or switches tabs, the log will appear instantly on the Server Console:
 
-   ![IMAGE: SERVER CONSOLE RECEIVING TIMESTAMPS LOG](Assets/Client.png)
+   ![IMAGE: SERVER CONSOLE RECEIVING TIMESTAMPS LOG](Asset/Client.png)
 
 3.  All received data is saved to the **`client_log.txt`** file (located in the same directory as `server.exe`), preserving historical activity:
 
-    ![IMAGE: CONTENT OF client_log.txt FILE WITH TIMESTAMPS](Assets/Res.png)
+    ![IMAGE: CONTENT OF client_log.txt FILE WITH TIMESTAMPS](Asset/Res.png)
 
 ---
 
