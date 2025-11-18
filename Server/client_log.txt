@@ -1,0 +1,31 @@
+2025-11-19 01:19:28 [DANG XEM] WindowsTerminal.exe | Noi dung: F:\Code uni\Tracking\Basic-network-tracking\Client\client.exe
+2025-11-19 01:19:33 [DANG XEM] SnippingTool.exe | Noi dung: Snipping Tool Overlay
+2025-11-19 01:19:37 [DANG XEM] WindowsTerminal.exe | Noi dung: F:\Code uni\Tracking\Basic-network-tracking\Client\client.exe
+2025-11-19 01:19:39 [DANG XEM] ShellExperienceHost.exe | Noi dung: New notification
+2025-11-19 01:19:40 [DANG XEM] WindowsTerminal.exe | Noi dung: F:\Code uni\Tracking\Basic-network-tracking\Client\client.exe
+2025-11-19 01:19:42 [DANG XEM] explorer.exe | Noi dung: Client - File Explorer
+2025-11-19 01:19:47 [DANG XEM] explorer.exe | Noi dung: Basic-network-tracking - File Explorer
+2025-11-19 01:19:50 [DANG XEM] explorer.exe | Noi dung: Home and 1 more tab - File Explorer
+2025-11-19 01:19:52 [DANG XEM] explorer.exe | Noi dung: This PC and 1 more tab - File Explorer
+2025-11-19 01:19:56 [DANG XEM] explorer.exe | Noi dung: Pictures and 1 more tab - File Explorer
+2025-11-19 01:19:59 [DANG XEM] explorer.exe | Noi dung: Screenshots and 1 more tab - File Explorer
+2025-11-19 01:20:14 [DANG XEM] explorer.exe | Noi dung: Basic-network-tracking and 1 more tab - File Explorer
+2025-11-19 01:20:16 [DANG XEM] explorer.exe | Noi dung: Asset and 1 more tab - File Explorer
+2025-11-19 01:20:20 [DANG XEM] Photos.exe | Noi dung: Photos
+2025-11-19 01:20:21 [DANG XEM] Photos.exe | Noi dung: Screenshot 2025-11-19 011937.png
+2025-11-19 01:20:23 [DANG XEM] explorer.exe | Noi dung: Asset and 1 more tab - File Explorer
+2025-11-19 01:20:29 [DANG XEM] Photos.exe | Noi dung: Photos
+2025-11-19 01:20:31 [DANG XEM] explorer.exe | Noi dung: Asset and 1 more tab - File Explorer
+2025-11-19 01:20:39 [DANG XEM] msedge.exe | Noi dung: Basic-network-tracking/README.md at main · Datbuudien/Basic-network-tracking and 6 more pages - Personal - Microsoft​ Edge
+2025-11-19 01:20:59 [DANG XEM] explorer.exe | Noi dung: Asset and 1 more tab - File Explorer
+2025-11-19 01:21:01 [DANG XEM] Photos.exe | Noi dung: Photos
+2025-11-19 01:21:02 [DANG XEM] Photos.exe | Noi dung: Server.png
+2025-11-19 01:21:06 [DANG XEM] explorer.exe | Noi dung: Asset and 1 more tab - File Explorer
+2025-11-19 01:21:08 [DANG XEM] msedge.exe | Noi dung: Basic-network-tracking/README.md at main · Datbuudien/Basic-network-tracking and 6 more pages - Personal - Microsoft​ Edge
+2025-11-19 01:21:28 [DANG XEM] WindowsTerminal.exe | Noi dung: F:\Code uni\Tracking\Basic-network-tracking\Server\server.exe
+2025-11-19 01:21:30 [DANG XEM] explorer.exe | Noi dung: Asset and 1 more tab - File Explorer
+2025-11-19 01:21:32 [DANG XEM] explorer.exe | Noi dung: Basic-network-tracking and 1 more tab - File Explorer
+2025-11-19 01:21:34 [DANG XEM] explorer.exe | Noi dung: Server and 1 more tab - File Explorer
+2025-11-19 01:21:35 [DANG XEM] Notepad.exe | Noi dung: Notepad
+2025-11-19 01:21:36 [DANG XEM] Notepad.exe | Noi dung: client_log.txt - Notepad
+2025-11-19 01:21:45 [DANG XEM] SnippingTool.exe | Noi dung: Snipping Tool Overlay
