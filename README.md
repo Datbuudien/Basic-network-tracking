@@ -42,7 +42,13 @@ To ensure the final executable runs on a clean machine without runtime errors, *
 ## 👨‍👩‍👧‍👦 USAGE GUIDE (For Parents/Guardians)
 
 The system is designed with a two-part structure: **The Server Machine (Guardian) listens for messages from the Client Machine (Ward).**
+### ➡️ Step 0: Identify the Server's IP Address (One-time Task)
 
+1.  On the Server Machine, open Command Prompt (CMD) and run the command **`ipconfig`**.
+2.  Record the **IPv4 Address** (e.g., `192.168.110.234`).
+3.  **Note:** This address must be hardcoded into the Client code before the final compilation and deployment.
+![IMAGE: USING IPCONFIG](Asset/ipconfig.png)
+---
 ### Step 1: File Preparation
 
 1.  **Server Machine (Guardian):** Keep the **`server.exe`** executable.
